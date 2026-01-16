@@ -1,0 +1,2 @@
+# Blast from the Past
+This folder contains very old source code for this project. I wrote this when I was very new to programming, before I was even on Github! Because of my inexperience at the time, the original code is inefficient, inflexible, and hard to understand. But it had the basic functionality I was looking for! It will serve as a jumping-off point for this code refresh, as well as a bit of a nostalgia trip.
